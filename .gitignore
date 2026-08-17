@@ -1,0 +1,2 @@
+#large files like parquet files and data files should be ignored
+*.parquet

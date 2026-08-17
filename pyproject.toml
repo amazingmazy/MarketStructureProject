@@ -1,0 +1,25 @@
+[project]
+name = "uchicago-summer-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "jupyter-resource-usage>=1.2.1",
+    "jupyterlab-execute-time>=3.3.0",
+    "jupytext>=1.19.3",
+    "lightgbm>=4.6.0",
+    "matplotlib>=3.10.9",
+    "openml>=0.15.1",
+    "pandas>=2.2,<2.3",
+    #"psycopg2-binary>=2.9.12",
+    "pyarrow>=14,<17",
+    "scikit-learn>=1.8.0",
+    "shap>=0.51.0",
+    #"sqlalchemy>=2.0",
+    "statsmodels>=0.14.6",
+    #"wrds>=3.5",
+    "xgboost>=3.2.0",
+]
