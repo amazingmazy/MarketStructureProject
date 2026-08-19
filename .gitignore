@@ -33,6 +33,8 @@ htmlcov/
 *.parquet
 *.feather
 *.pkl
+# The submitted cache is intentionally distributed outside GitHub.
+data/portfolios.pkl
 *.pickle
 *.joblib
 

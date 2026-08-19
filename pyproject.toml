@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "cvxpy>=1.9.2",
     "ipykernel>=7.2.0",
     "jupyter>=1.1.1",
     "jupyter-resource-usage>=1.2.1",
@@ -15,6 +16,7 @@ dependencies = [
     "openml>=0.15.1",
     "pandas>=2.2,<2.3",
     #"psycopg2-binary>=2.9.12",
+    "plotnine>=0.15.3",
     "pyarrow>=14,<17",
     "scikit-learn>=1.8.0",
     "shap>=0.51.0",
